@@ -1,0 +1,3 @@
+/Users/liangjiahao/Desktop/Projects/CLionProjects/num_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/liangjiahao/Desktop/Projects/CLionProjects/num_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liangjiahao/Desktop/Projects/CLionProjects/num_test/cmake-build-debug/CMakeFiles/num_test.dir

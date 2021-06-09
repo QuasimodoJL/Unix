@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/namespace/namesp.cpp
+iostream
+-
+namesp.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/namespace/namesp.h
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/namespace/namesp.h
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/namespace/namessp.cpp
+iostream
+-
+namesp.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/namespace/namesp.h
+

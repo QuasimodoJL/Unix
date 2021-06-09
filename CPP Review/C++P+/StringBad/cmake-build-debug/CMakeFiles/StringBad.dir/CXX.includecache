@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/StringBad/main.cpp
+iostream
+-
+strnbad.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/StringBad/strnbad.h
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/StringBad/strnbad.cpp
+strnbad.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/StringBad/strnbad.h
+cstring
+-
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/StringBad/strnbad.h
+iostream
+-
+

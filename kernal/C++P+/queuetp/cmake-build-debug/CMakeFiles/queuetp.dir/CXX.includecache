@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/queuetp/queuetp.cpp
+queuetp.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/queuetp/queuetp.h
+iostream
+-
+string
+-
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/queuetp/queuetp.h
+
