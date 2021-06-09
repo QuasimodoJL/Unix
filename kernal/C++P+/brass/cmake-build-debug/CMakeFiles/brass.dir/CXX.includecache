@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/brass/brass.cpp
+brass.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/brass/brass.h
+iostream
+-
+cstring
+-
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/brass/brass.h
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/brass/main.cpp
+iostream
+-
+brass.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/brass/brass.h
+

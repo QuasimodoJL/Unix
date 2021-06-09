@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/error5/error5.cpp
+error5.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/error5/error5.h
+iostream
+-
+cstring
+-
+cmath
+-
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/error5/error5.h
+iostream
+-
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/error5/main.cpp
+iostream
+-
+

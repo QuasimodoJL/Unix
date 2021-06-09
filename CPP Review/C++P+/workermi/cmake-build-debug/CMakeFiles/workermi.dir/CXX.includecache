@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/workermi/main.cpp
+iostream
+-
+cstring
+-
+workermi.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/workermi/workermi.h
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/workermi/workermi.cpp
+workermi.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/workermi/workermi.h
+iostream
+-
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/workermi/workermi.h
+string
+-
+

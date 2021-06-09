@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/mytime1/main.cpp
+iostream
+-
+mytime1.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/mytime1/mytime1.h
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/mytime1/mytime1.cpp
+iostream
+-
+mytime1.h
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/mytime1/mytime1.h
+
+/Users/liangjiahao/Desktop/Projects/CLionProjects/C++PrimePlusDemos/mytime1/mytime1.h
+

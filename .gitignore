@@ -1,0 +1,6 @@
+.DS_Store
+*.[oa]
+*.swp
+*.txt
+./CPP Review/C++P+/**/cmake-build-debug/
+./CPP Review/C++P+/**/.idea/
