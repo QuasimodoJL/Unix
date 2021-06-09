@@ -2,5 +2,5 @@
 *.[oa]
 *.swp
 *.txt
-./CPP Review/C++P+/**/cmake-build-debug/
-./CPP Review/C++P+/**/.idea/
+**/cmake-build-debug
+**/.idea
