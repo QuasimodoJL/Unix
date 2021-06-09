@@ -1,7 +1,0 @@
-cmake_minimum_required(VERSION 3.8)
-project(Student)
-
-set(CMAKE_CXX_STANDARD 11)
-
-set(SOURCE_FILES main.cpp Student.cpp Student.h)
-add_executable(Student ${SOURCE_FILES})
